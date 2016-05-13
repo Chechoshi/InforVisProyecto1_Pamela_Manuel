@@ -20,5 +20,5 @@ arreglo de dimensiones y otra con coordenadas recursivas**
 [zoomchart.com](https://zoomcharts.com/en/blog/) y
 [Disques TauChart Guide](http://api.taucharts.com/basic/facet.html ) 
 
-######Parametros de configuración
-[bl.ocks,org](http://bl.ocks.org/Chechoshi/1fae3a2f0c0935b4d6bdb6af826974cd)
+######Pruebas
+[bl.ocks.org](http://bl.ocks.org/Chechoshi/1fae3a2f0c0935b4d6bdb6af826974cd)
